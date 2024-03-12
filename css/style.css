@@ -60,6 +60,10 @@ a {
   text-decoration: none;
 }
 
+picture {
+  width: 100%;
+}
+
 .nav,
 .header,
 .courses,
